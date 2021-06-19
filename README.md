@@ -20,6 +20,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasvalle&count_private=true&layout=compact" />
 </p>
 <p>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasvalle&theme=github" />
+  <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasvalle&theme=github" />
 </p>
 
